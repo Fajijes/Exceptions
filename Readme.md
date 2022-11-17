@@ -6,14 +6,15 @@
 
 __Задача 1: Реализуйте 3 метода, чтобы в каждом из них получить разные исключения.__
     
-Файл метода 1 имеет название [Method1.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Method1.java)
+Файл метода 1 имеет название [Method1.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Task1/Method1.java)
 
-Файл метода 2 имеет название [Method2.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Method2.java)
 
-Файл метода 3 имеет название [Method3.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Method3.java)
+Файл метода 2 имеет название [Method2.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Task1/Method2.java)
+
+Файл метода 3 имеет название [Method3.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Task1/Method2.java)
 
 __Задача 2: Реализуйте метод, принимающий в качестве аргументов два целочисленных массива, и возвращающий новый массив, каждый элемент которого равен разности элементов двух входящих массивов в той же ячейке. Если длины массивов не равны, необходимо как-то оповестить пользователя..__
     
-Файл задачи имеет название [Task2.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Task2.java)
+Файл задачи имеет название [Task2.java](https://github.com/Fajijes/Exceptions/blob/main/Sem1/Task2/Task2.java)
 
 ---
